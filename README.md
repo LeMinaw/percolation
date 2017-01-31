@@ -4,10 +4,10 @@ Modélise l'écoulement de l'eau dans la roche.
 ## Format de codage des matrices :
 Pour une matrice de dimension 2 :
  ```
- [[-1, 1, 1, 0,  0,  1, 1, -1],
- [-1, 1, 1, 0,  0,  1, 1, -1],
- [-1, 1, 1, 0,  0,  1, 1, -1],
- [-1, -1, -1, -1, -1, -1, -1, -1]]
+ [[-1, 1,  1,  0,  0,  1,  1,  -1],
+  [-1, 1,  1,  0,  0,  1,  1, - 1],
+  [-1, 1,  1,  0,  0,  1,  1,  -1],
+  [-1, -1, -1, -1, -1, -1, -1, -1]]
  ```
 
 ## Convention de codage
